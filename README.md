@@ -10,13 +10,13 @@
 ## 📸 Aperçu du Dashboard
 
 ### Page 1 : Vue d'ensemble
-![Page 1](screenshots/page1.png)
+![Page 1](screenshots/Captured'écran2026-02-08180754.png.png)
 
 ### Page 2 : Analyse détaillée
-![Page 2](screenshots/Capture d'écran 2026-02-08 180814.png)
+![Page 2](screenshots/Captured'écran2026-02-08180814.png)
 
 ### Page 3 : Suivi temporel
-![Page 3](screenshots/Capture d'écran 2026-02-08 180830.png)
+![Page 3](screenshots/Captured'écran2026-02-08180830.png)
 
 ---
 

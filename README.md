@@ -10,7 +10,7 @@
 ## 📸 Aperçu du Dashboard
 
 ### Page 1 : Vue d'ensemble
-![Page 1](screenshots/Capture d'écran 2026-02-08 180754.png)
+![Page 1](screenshots/page1.png)
 
 ### Page 2 : Analyse détaillée
 ![Page 2](screenshots/Capture d'écran 2026-02-08 180814.png)

@@ -3,22 +3,21 @@
 
 # 📊 Dashboard PMO - Pilotage des Projets IT & Marketing
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
-
 ## 📸 Aperçu du Dashboard
-
 ### Page 1 : Vue d'ensemble
-![Page 1](screenshots/Captured'écran2026-02-08180754.png)
+<img width="1733" height="814" alt="Capture d&#39;écran 2026-05-31 174546" src="https://github.com/user-attachments/assets/6ea09390-7ab2-4585-8a98-485c9a396e68" />
 
 ### Page 2 : Analyse détaillée
-![Page 2](screenshots/Captured'écran2026-02-08180814.png)
+
+<img width="1774" height="817" alt="Capture d&#39;écran 2026-05-31 174641" src="https://github.com/user-attachments/assets/66232094-2ce5-4abd-9682-1915a76b305d" />
 
 ### Page 3 : Suivi temporel
-![Page 3](screenshots/Captured'écran2026-02-08180830.png)
 
----
+<img width="1624" height="816" alt="Capture d&#39;écran 2026-05-31 174707" src="https://github.com/user-attachments/assets/e32228f6-ff90-4789-9a51-e7b8654a5ee5" />
+
+### Page 3 : Suivi régional 
+
+<img width="1462" height="824" alt="Capture d&#39;écran 2026-05-31 174741" src="https://github.com/user-attachments/assets/550583a8-a07d-40ea-a322-a6bb80496cd5" />
 
 ## 🎯 Objectif du Projet
 

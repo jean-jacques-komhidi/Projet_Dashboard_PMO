@@ -13,6 +13,14 @@ Tableau de bord Business Intelligence interactif conçu pour le Project Manageme
 
 ---
 
+## Démo vidéo
+
+[![Voir la démo vidéo (40 s)](docs/demo/dashboard-pmo-demo-poster.jpg)](docs/demo/dashboard-pmo-demo.mp4)
+
+Navigation entre les pages du rapport Power BI : direction générale, directeurs régionaux et calendrier des projets. Cliquez sur l'image pour lancer la vidéo (40 s), ou regardez-la sur [mon portfolio](https://jean-jacques-komhidi.github.io/jean-jacques-komhidi/#realisations).
+
+---
+
 ## Table des matières
 
 - [Contexte](#contexte)
